@@ -1,9 +1,5 @@
 데이터 설명 
 
-<class 'pandas.core.frame.DataFrame'>
-RangeIndex: 114969 entries, 0 to 114968
-Data columns (total 15 columns):
- #   Column          Non-Null Count   Dtype   
 ---  ------          --------------   -----   
  0   Location        114969 non-null  category 위치
  1   Temp (°C)       114957 non-null  float64 기온
